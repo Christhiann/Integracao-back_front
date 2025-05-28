@@ -1,0 +1,5 @@
+export * from './app-layout'
+export * from './diagnostico'
+export * from './envio-de-imagem'
+export * from './home'
+export * from './not-found'
